@@ -54,3 +54,26 @@ else if (number % 2 !== 0)
 else
     console.log("IMPOSSIBRU!!!");
 ```
+
+---
+
+### Code Blocks (Functions)
+
+BLOCK 01
+```javascript
+function helloWorld() {
+  console.log("Hello World!");
+}
+```
+BLOCK 02
+```javascript
+function greet(name) {
+    console.log(`Hello ${name}`);
+}
+
+function multiplyTwoNumbers(a,b) {
+    return a*b;
+}
+
+// These braces are required always.
+```
