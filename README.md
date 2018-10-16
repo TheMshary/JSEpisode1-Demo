@@ -9,8 +9,8 @@
 BLOCK 01 (MANUAL)
 
 ```javascript
-    let number = 5;
-    console.log("ODD")
+let number = 5;
+console.log("ODD")
 ```
 BLOCK 02 (IF)
 
