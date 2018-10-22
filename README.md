@@ -3,6 +3,24 @@
 [Slides](https://docs.google.com/presentation/d/1P8MPXUktK_viz0AO2Vqu4WKPrCiWLh7CGbiKrTztLcU/edit#slide=id.g43fb029fa7_0_5)
 
 ---
+### Code Blocks (Variables)
+
+BLOCK 01 (LET)
+
+```javascript
+let username = "Octowl";
+console.log(username);
+username = "darthHamza";
+console.log(username);
+```
+
+BLOCK 02 (CONST)
+
+```javascript
+const username = "Octowl";
+console.log(username);
+username = "darthHamza"; // error
+```
 
 ### Code Blocks (If-Statement)
 
