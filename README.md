@@ -105,3 +105,11 @@ function multiplyTwoNumbers(a, b) {
 
 // These braces are required always.
 ```
+
+---
+
+### Code Blocks (Setup)
+
+BLOCK 01
+
+Run through the setup steps on the task at least once
