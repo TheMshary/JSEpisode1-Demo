@@ -112,4 +112,4 @@ function multiplyTwoNumbers(a, b) {
 
 BLOCK 01
 
-Run through the setup steps on the task at least once
+Run through the setup steps on the [task](https://warehouse.joincoded.com/assignments/tasks/javascript/episode-1-basics/) at least once
