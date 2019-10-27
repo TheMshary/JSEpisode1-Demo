@@ -108,6 +108,14 @@ function multiplyTwoNumbers(a, b) {
 
 ---
 
+# Installing Prettier on VS Code
+
+1. Command Palette: `CMD+Shift+P`
+2. Select: "Extensions: Install Extensions"
+3. Search for "Prettier", click "Install", and then reload once the installation is complete.
+
+---
+
 ### Code Blocks (Setup)
 
 BLOCK 01
